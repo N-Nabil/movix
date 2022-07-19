@@ -1,0 +1,10 @@
+.navbar{
+    background: #e3e3e3;
+    padding: 0.5em;
+    color:  #f34a2e;
+    font-size: 1.8em;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-shadow: 2px 1px #497398;
+}
